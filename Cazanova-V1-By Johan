@@ -34,7 +34,7 @@ local function safeCall(func, ...)
 end
 
 -- UI Window
-local window = library:AddWindow("Clan JX7", {
+local window = library:AddWindow("🎄🎅Cazanova hub || Priv🎅🎄", {
     main_color = Color3.fromRGB(255, 0, 0),
     min_size = Vector2.new(650, 870),
     can_resize = true,
@@ -3317,7 +3317,7 @@ local credits = {
     "User de Roblox: Fresade80",
     "TikTok: johan13098",
     "Discord: johan041258",
-    "Thanks por usar el script",
+    "Actualización en navidad🎅",
     "Recomienda el script para hacer mas actualizaciones",
     "Ayudantes: Max JX7,...",
     "Diviertete amiguito"
